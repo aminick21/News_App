@@ -1,6 +1,10 @@
 # news_app
 
-A new Flutter project.
+A simple news using news.org API.
+
+![](ss/img1.jpg)
+![](ss/img2.jpg)
+
 
 ## Getting Started
 
